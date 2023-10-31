@@ -1,8 +1,8 @@
-package Threads;
+package Java8vsJava7;
 
 import java.util.stream.IntStream;
 
-public class Main {
+public class A_Java8vsJava7 {
     public static void main(String[] args) {
 //        Before Java 8
         int total7 = 0;
